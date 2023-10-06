@@ -1,0 +1,13 @@
+{
+  "name": "logic-gates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<levi.fre>",
+  "license": "MIT",
+  "scripts": {
+ 		"test": "jest" 
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
